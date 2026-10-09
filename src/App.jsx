@@ -3,6 +3,7 @@ import Inicio from './pages/Inicio'
 import Posts from './pages/PostsPages'
 import {Routes, Route} from 'react-router'
 import Nav from './components/Nav'
+import "./components/Nav.css";
 
 //import AppBar from '@mui/material/AppBar'
 //import Toolbar from '@mui/material/Toolbar'
